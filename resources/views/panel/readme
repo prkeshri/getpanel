@@ -1,0 +1,4 @@
+<li>Assigning a temporary folder with write permissions where I can save your configurations.
+					<br>
+					If you wish to store your configurations in the database instead, then we need to create a different database exclusively for me so I may write and read configurations from them. But please make sure to store this database in some different place than you original db so it won't affect the speed of your original database.
+				</li>
